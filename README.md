@@ -1,4 +1,4 @@
-# JPMC Excel Simulation Project 
+# Sales Campaign and CAGR Project: Excel Dashboard
 
 This project was an Excel-based simulation challenge I completed on Forage for JPMC.
 
